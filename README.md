@@ -1,1 +1,1 @@
-Sql-hw
+Data management homework
